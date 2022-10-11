@@ -1,0 +1,3 @@
+CntCode=o	
+NeedAuth=1	
+MaxMarginRatio=0.7	

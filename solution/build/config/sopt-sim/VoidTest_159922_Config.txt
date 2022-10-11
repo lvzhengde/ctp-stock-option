@@ -1,0 +1,11 @@
+OptCntCode=o	
+UnderCntCode=o	
+UnderMdOnly=0	
+UnderlyingAssetType=2	
+YearMonthListSize=0	
+SegTimeListSize=2	
+SegBeginTime0=93000	
+SegEndTime0=113000	
+SegBeginTime1=130000	
+SegEndTime1=150000	
+

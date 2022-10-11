@@ -1,0 +1,13 @@
+FilterSize=2	
+CounterName0=SOPT_SIM	
+CntCode0=o	
+ExchangeID0=SSE	
+MaxCancelOrderNum0=20000	
+MaxTradeVolume0=1000	
+MaxOpenInterests0=1000	
+CounterName1=SOPT_SIM	
+CntCode1=o	
+ExchangeID1=SZSE	
+MaxCancelOrderNum1=20000
+MaxTradeVolume1=1000	
+MaxOpenInterests1=1000	
